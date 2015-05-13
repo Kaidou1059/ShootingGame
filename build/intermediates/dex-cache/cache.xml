@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sys310\Desktop\ShootingGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\sys310\Desktop\ShootingGame\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-62d24827d3221828589e825127746443596726ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\sys310\Desktop\ShootingGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\sys310\Desktop\ShootingGame\app\build\intermediates\pre-dexed\debug\classes-d045ab5d982e8ebc84dd6b52e3d3f6d60a90fb66.jar" />
+    </item>
+    <item
+        jar="C:\Users\sys310\Desktop\ShootingGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\sys310\Desktop\ShootingGame\app\build\intermediates\pre-dexed\debug\classes-beae5b176a976d88a20798663d40906e33b96b1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sys310\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\sys310\Desktop\ShootingGame\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-17f98e2b3ab32b59f160991058cd6d28d511545a.jar" />
+    </item>
+
+</items>
